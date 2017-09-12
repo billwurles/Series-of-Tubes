@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_e92fde37e626ae8ec29e75d9b26f0234e898e8c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.4.0_0526ab2fed6b13e0cf8b8e291c820d8bf2b38599/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2c1b0dbdb088c3e31ba3175e82e07d8bc499f23d">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c4f5880a886fd383ad1be2dbb851812ebb8ed22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_1b8469e6816c751e676ebbee411c8e9c71bb1dd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9bfe681789fab52ffd4ec8dce18ca80fa6ba93ef">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad262296523a2c5cd101f77fd2bc35a208dbedcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_449cafdb7509e8bad8f0f9e453d7f4cdba6486b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_c3660b4d19be8ae0848658ff586f909d7038c9c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.4.0_e90608094f1964fa788055ba0f2a94909a8d39a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b6bdd0e792bc71a12868eac335a634e16771c411/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_19b48ba06234f9b0dff7f0b4b1251a8b3e807a69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_c7af8dbbf0f26e1513cfa60e0097fd56e8c032f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_49a786a3384a03fcdcaaae77b002911fa161424e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_31e89c533f14828d075507a811af75a93d992bcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a84e5b80f54851206f98c81597506652e283441c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_5016db604a075b7169a35698817962c1437c58d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_183db84b2f90eebff78cab8420f113d7de78293d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_b913d364fd4096dc28f3bc455251e4f76b6e2372/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_0e1fb3c2350c5b84c0e5f60e4efb8629a4c879e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_04da25ba825355f89ff1a108365c34bb24cddb25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.4.0_626aa87b6290b8edab7bdd1b6d7891175049abb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.4.0_1d1da75cdd06c55fb0d35654987efb91644cc50f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_a6753eb448342e8fd096f8ec3a2a4bb35b9da6f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_80f62397007ec3750caaadf63985d87895e982be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_bf2ddab9026b98a5eafbd68c585300af0e49c3a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.4.0_882595324575c73e4175ac2beca6df9f7e1fe0c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-8.4.0_759d105c93a5f2f36ee19bc48ee9740a3fd32018/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_be726a6d350a75e46df6d63bb0102c26fc42ee10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_d42ebec5bbf3aa57c9f7beac22423c2586742662/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.4.0_98df807071e1f1f5dfd9374956ca1f0d569687da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6e8b99748cfd436597636820fd68c767046c0f50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.4.0_299f0967bc066730dfc5cc14d268dbd54c5b4b9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.4.0_e09a367a41767bbe681173458567a561bd04b857/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.4.0_e63936f7a97ef5fee62613fbdc2117e353188267/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.4.0_2a782266e750ee5822257049c95d1e34bb461323/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_91025adc415a4d5e9269f8428fe796e8bec6b198/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_25a6804141b0ca769a3a8a2e579505a8ea1ead4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_80e7ce4dc01b240d33945c536dfa6a942b099b40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-8.4.0_2b29e8152236a09015187f5e5f2df5c005181923/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a2ec7141c80bdb1596de4a035ae7469c2d9359b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_02a066680fb1b3d8e9bff720c51bb07c797b1782/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.4.0_1b37ac389b8f13b5440e0c055383bff0b7e76006/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/Will/Google Drive/euni___work/mobile__dev/SeriesOfTubes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.4.0_6150a5c9a3078c6b15b96ada397d8e931c5e97de/classes.dex" />
+    </item>
+
+</items>

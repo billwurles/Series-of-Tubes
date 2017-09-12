@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Series Of Tubes</string>
+    <string name="title_activity_game">Streets of London</string>
+    <string name="tfl_url">https://api.tfl.gov.uk/</string>
+    <string name="tfl_api_keys">"app_id=2347d6dd&amp;app_key=06185e5aaa9e294dc2ce0f2a4d113a7b"</string>
+
+    <string name="move">Move</string>
+    <string name="player_menu">Player</string>
+    <string name="bike">Bike</string>
+    <string name="walk">Walk</string>
+    <string name="history">History</string>
+    <string name="shop">Shop</string>
+
+    <string name="button_run_away">Run Away!</string>
+    <string name="button_fight">Fight!</string>
+    <string name="button_damage_boost">Damage Boost</string>
+    <string name="health">health:</string>
+    <string name="weapon">weapon:</string>
+    <string name="cash">cash:</string>
+    <string name="boost">boost:</string>
+    <string name="pay_button">Pay and Leave Shop</string>
+    <string name="buy_bottle_button">£5 Bottle\n + 5 Damage</string>
+    <string name="buy_knife_button">£10 Knife\n+ 10 Damage</string>
+    <string name="buy_gun_button">£20 Gun\n+ 30 Damage</string>
+    <string name="buy_choc_button">£2 - Chocolate \n+ 10 Health</string>
+    <string name="buy_meal_button">£10 - Meal Deal\n+ 30 Health</string>
+    <string name="not_enough_cash_bike">You don\'t have enough money to use boris bikes</string>
+    <string name="no_bikes_available">There are no bikes available within walking distance</string>
+    <string name="gameover_no_money">You don\'t have enough money\nto travel, so you starved</string>
+    <string name="gameover_killed">You were Killed\nGame Over"</string>
+    <string name="not_same_line">This stop is not on the same line as you</string>
+    <string name="tap_map">Tap the map to place the player"</string>
+
+    <string name="weap_null">No weapon</string>
+    <string name="weap_bottle">Bottle + 5 DMG</string>
+    <string name="weap_knife">Knife + 10 DMG</string>
+    <string name="weap_gun">Gun + 30 DMG</string>
+    <string name="hp">HP</string>
+    <string name="damage_boosters">Damage Boosters</string>
+    <string name="pound">£</string>
+    <string name="shop_not_enough_cash">You can\'t afford this</string>
+    <string name="shop_better_weapon">You already own a better weapon</string>
+    <string name="shop_same_weapon">You already own this weapon</string>
+    <string name="shop_full_health">You have full health already</string>
+
+    <string name="mugger_info_1">\t\tMugger\nHealth: </string>
+    <string name="mugger_info_2">\nStrength: </string>
+    <string name="mugger_info_3">\nDemanding: £</string>
+    <string name="player_info_1">\t\tPlayer\nHealth: </string>
+    <string name="player_info_2">\nStrength: </string>
+    <string name="player_info_3">\nCash: £</string>
+    <string name="mugging_attack">Attack the mugger with your </string>
+    <string name="use_damage_boost">Use Damage\nBoost</string>
+    <string name="need_weapon">You need a weapon to fight!</string>
+    <string name="boost_1">Boost your damage +</string>
+    <string name="boost_2">\nfor 3 hits</string>
+    <string name="boost_3"> boosted hits remaining</string>
+    <string name="run_1">Give the mugger £</string>
+    <string name="run_2"> to get away safely</string>
+    <string name="no_cash_killed">You didn\'t have enough money and were killed by the mugger</string>
+    <string name="got_away">You got away safely</string>
+    <string name="must_fight">You can\'t afford it, You have to fight!</string>
+    <string name="killed_by_mugger">You were killed by the mugger</string>
+    <string name="killed_the_mugger">You killed the mugger gaining a damage boost and £</string>
+
+
+
+
+</resources>

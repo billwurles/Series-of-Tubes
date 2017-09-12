@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item android:id="@+id/menu_move"
+        android:title = "@string/move"
+        android:enabled="false"
+        app:showAsAction="always"
+        android:orderInCategory="1"
+        android:icon="@drawable/move_wht"/>
+    <item android:id="@+id/menu_shop"
+        android:title = "@string/shop"
+        android:enabled="false"
+        app:showAsAction="always"
+        android:orderInCategory="2"
+        android:icon="@drawable/shop_blk"/>
+    <item android:id="@+id/menu_player"
+        android:title="@string/player_menu"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:ic
+        on="@drawable/view_player"
+        android:orderInCategory="3"/>
+    <item android:id="@+id/menu_bike"
+        android:title="@string/bike"
+        android:enabled="false"
+        app:showAsAction="always"
+        android:orderInCategory="4"
+        android:icon="@drawable/bike_blk"/>
+    <item android:id="@+id/menu_walk"
+        android:title="@string/walk"
+        android:enabled="false"
+        app:showAsAction="always"
+        android:orderInCategory="4"
+        android:icon="@drawable/walk_blk"/>
+    <item android:id="@+id/menu_history"
+        android:title="@string/history"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:orderInCategory="5"
+        android:icon="@drawable/history"/>
+</menu>

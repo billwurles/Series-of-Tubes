@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="wburles.uk.seriesoftubes.ViewPlayerFragment"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <ImageView android:id="@+id/image_health"
+        android:src="@drawable/health"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_column="0"
+        android:layout_row="0"/>
+    <TextView android:id="@+id/text_health"
+        android:text="@string/health"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="0"
+        android:textSize="26sp"
+        android:paddingLeft="24dp"/>
+
+    <ImageView android:id="@+id/image_weapon"
+        android:src="@drawable/nada"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_column="0"
+        android:layout_row="1"/>
+    <TextView android:id="@+id/text_weapon"
+        android:text="@string/weapon"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="1"
+        android:textSize="26sp"
+        android:paddingLeft="24dp"/>
+
+    <ImageView android:id="@+id/image_cash"
+        android:src="@drawable/cash"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_column="0"
+        android:layout_row="2"/>
+    <TextView android:id="@+id/text_cash"
+        android:text="@string/cash"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="2"
+        android:textSize="26sp"
+        android:paddingLeft="24dp"/>
+
+    <ImageView android:id="@+id/image_boost"
+        android:src="@drawable/nada"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_column="0"
+        android:layout_row="3"/>
+    <TextView android:id="@+id/text_boost"
+        android:text="@string/boost"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="3"
+        android:textSize="26sp"
+        android:paddingLeft="24dp"/>
+
+    <TextView android:layout_column="1"
+        android:layout_row="4"/>
+
+</GridLayout>
